@@ -1,6 +1,8 @@
 # nbstrat
 Negative binomial with endogenous stratification Use nbstrat With STATA 18
 
+https://www.youtube.com/watch?v=6GEqyrCrd2Y
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
